@@ -18,8 +18,6 @@ I'm a 3rd year student pursuing Bachelors in Computer Science 🎓 from Lovely P
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=HarshYadav008&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   <br/>
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=HarshYadav008&icon=4&color=6" />
 </div>
 
 
