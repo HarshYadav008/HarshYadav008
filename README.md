@@ -14,15 +14,18 @@ I'm a 3rd year student pursuing Bachelors in Computer Science 🎓 from Lovely P
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshYadav008&theme=gotham&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav008&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HarshYadav008&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=HarshYadav008&icon=4&color=6)](https://visitcount.itsvg.in)
 </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshYadav008&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarshYadav008&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=HarshYadav008&icon=4&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
