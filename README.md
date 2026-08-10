@@ -1,5 +1,5 @@
-# 💫 About Me:
-I Completed my Bachelors in Computer Science & Engineering 🎓 from Lovely Professional University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+# About Me:
+I Completed my Bachelors in Computer Science & Engineering from Lovely Professional University . I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
 
 ## 🌐 Socials:
