@@ -15,9 +15,7 @@ I Completed my Bachelors in Computer Science & Engineering from Lovely Professio
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav008&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br/>
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=HarshYadav008&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  <br/>
+ 
 </div>
 
 
